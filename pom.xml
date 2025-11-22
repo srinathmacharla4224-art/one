@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexus-test</id>
-		    <url>http://44.193.226.237:8081/repository/nexus-test/</url>
+		    <id>myweb</id>
+		    <url>http://44.192.2.255:8081/repository/myweb/</url>
 		</repository>
   	</distributionManagement>
 	
