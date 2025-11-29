@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>myrepo</id>
-		    <url>http://13.234.116.239:8081/repository/myrepo/</url>
+		    <id>myapp</id>
+		    <url>http://3.110.33.186:8081/repository/myapp/</url>
 		</repository>
   	</distributionManagement>
 	
